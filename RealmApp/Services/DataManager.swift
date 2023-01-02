@@ -23,7 +23,6 @@ class DataManager {
                 ]
             )
             
-            
             let milk = Task()
             milk.name = "Milk"
             milk.note = "2L"
